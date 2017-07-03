@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Naxam.YangMingShan.iOS</id>
+    <version>1.3.0</version>
+    <authors>hado</authors>
+    <owners>NAXAM COMPANY LIMITED</owners>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>http://github.com/naxam/yangmingshan-ios-binding</projectUrl>
+    <iconUrl>https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-9/19430128_1394919697251442_2614019130355005300_n.png?oh=2d6684c90177b2214155e8c4784f49c5&amp;oe=5A0B0567</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <title>NAXAM - YangMingShan (PhotoPicker)</title>
+    <description>Xamarin Binding Library - YangMingShan (PhotoPicker)</description>
+    <releaseNotes>Yahoo:YangMingShan 1.3.0</releaseNotes>
+    <copyright>Copyright 2017 NAXAM</copyright>
+    <tags>Xamarin.iOS yangmingshan photopicker photo-picker image-picker</tags>
+    <dependencies>
+      <!--<dependency id="SampleDependency" version="1.0" />-->
+    </dependencies>
+  </metadata>
+  <files>
+        <file src="Naxam.YangMingShan.iOS/bin/Release/Naxam.YangMingShan.iOS.dll" target="lib/Xamarin.iOS10/Naxam.YangMingShan.iOS.dll" />
+    </files>
+</package>

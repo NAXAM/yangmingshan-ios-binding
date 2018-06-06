@@ -1,5 +1,5 @@
 framework module YangMingShan {
-  umbrella header "YangMingShan-umbrella.h"
+  umbrella header "YangMingShan.h"
 
   export *
   module * { export * }
